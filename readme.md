@@ -29,7 +29,8 @@ Spinnr was developed because I found that Rekordbox lacked too many features whi
 
 ## Installation
 
-[Download the binaries](/releases)!
+~~[Download the binaries](#)!~~
+<!--[Download the binaries](/releases)! -->
 
 ## Usage
 
