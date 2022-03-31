@@ -1,6 +1,6 @@
 <p align="center">
   <a href="thebrenny.github.io/spinnr"> <!-- Change the HREF to the link! -->
-    <img src="/res/banner.png" alt="Spinnr">
+    <img src="res/spinnr-banner.png" alt="Spinnr">
   </a>
 
   <p align="center">
