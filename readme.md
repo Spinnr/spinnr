@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="thebrenny.github.io/spinnr"> <!-- Change the HREF to the link! -->
+  <a href="https://thebrenny.github.io/spinnr">
     <img src="res/spinnr-banner.png" alt="Spinnr">
   </a>
 
   <p align="center">
     Your all in one tool to help you manage your DJ library and generate playlists!
     <br />
-    <strong><em>Powered by <a href="https://tauri.studio/">Tauri</a> and <a href="https://github.com/TheBrenny/scetch">scetch</a>!</em></strong>
+    <strong><em>Powered by <a href="https://tauri.studio/">Tauri</a>, <a href="https://github.com/TheBrenny/scetch">scetch</a>, and <a href="https://github.com/Polochon-street/bliss-rs">bliss</a>!</em></strong>
 	<br />
 	Status: <em>0.0.1 (Development)</em>
   </p>
@@ -29,7 +29,8 @@ Spinnr was developed because I found that Rekordbox lacked too many features whi
 
 ## Installation
 
-~~[Download the binaries](#)!~~
+Currently, Spinnr is in active development and is unable to be tried or tested. You can register your interest in the project by starring [this repo on GitHub](https://github.com/Spinnr/spinnr).
+
 <!--[Download the binaries](/releases)! -->
 
 ## Usage

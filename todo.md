@@ -1,0 +1,5 @@
+- [ ] Create a build script that
+  - [ ] Pulls from the Dev repo,
+  - [ ] Builds all the binaries,
+  - [ ] Pushes up those binaries to this repo,
+  - [ ] Creates a new release on GitHub.
